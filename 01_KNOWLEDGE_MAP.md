@@ -1,7 +1,6 @@
 # ======================================================================
 # KNOWLEDGE MAP
 # Kartik H.
-# Version 1.0
 # Living Document
 # ======================================================================
 
@@ -9,12 +8,7 @@
 
 It is a map of the questions I am exploring.
 
-Everything I build,
-write,
-research,
-teach,
-or design
-should connect somewhere inside this map.
+Everything I build, write, research, teach, or design should connect somewhere inside this map.
 
 This document evolves.
 
@@ -45,19 +39,25 @@ Everything below explores one part of this pathway.
 KNOWLEDGE ARCHITECTURE
 ======================================================================
 
-                              Better Health Outcomes
-                                         ▲
-                                         │
-                              Better Behaviors
-                                         ▲
-                                         │
-                              Better Decisions
-                                         ▲
-                                         │
-                             Better Understanding
-                                         ▲
-                                         │
-                          Better Information Design
+                   CONTEXT
+     (language, access, cost, beliefs,
+      culture, health literacy, systems)
+          |                       |
+          v                       v
+
+Better Information Design
+        ↓
+Better Understanding
+        ↓
+Better Decisions
+        ↓
+Better Behaviors
+        ↓
+Better Health Outcomes
+
+Context influences every stage.
+
+This is not an automatic causal chain.
 
 ======================================================================
 DOMAIN 1
@@ -87,20 +87,6 @@ Why do patients forget counselling?
 What makes explanations memorable?
 
 Can visual explanations improve comprehension?
-
-Future Outputs
-
-LinkedIn Posts
-
-Articles
-
-Research
-
-Infographics
-
-Videos
-
-Frameworks
 
 ======================================================================
 DOMAIN 2
@@ -349,57 +335,33 @@ Document evolution.
 Not perfection.
 
 ======================================================================
-CONTENT MATRIX
+USING THE DOMAINS
 ======================================================================
 
-Every future piece of content should answer ONE of these:
+Domains are tags, not folders.
 
-□ What surprised me?
+A note lives in one workflow folder (capture/, thinking/, writing/...) and carries one or more domain tags from this map.
 
-□ What assumption changed?
-
-□ What problem became clearer?
-
-□ What system did I notice?
-
-□ What evidence challenged my thinking?
-
-□ What practical lesson emerged?
-
-□ What question am I still exploring?
+The essay series structure (Books and Seasons) lives in 04_ESSAY_INDEX.md.
 
 ======================================================================
 CONTENT TYPES
 ======================================================================
 
 Observation
-
 ↓
-
 Explanation
-
 ↓
-
 Framework
-
 ↓
-
 Case Study
-
 ↓
-
 Research Reflection
-
 ↓
-
 Builder Log
-
 ↓
-
 Educational Guide
-
 ↓
-
 Visual Model
 
 ======================================================================
@@ -409,85 +371,51 @@ THE BODY OF WORK
 Nothing is isolated.
 
 Telepharmacy
-
 ↓
-
 Patient Counselling
-
 ↓
-
 Health Literacy
-
 ↓
-
 Understanding
-
 ↓
-
 Decision Making
-
 ↓
-
 Outcomes
 
 ------------------------------------------------------------
 
 TechStudyHubCore
-
 ↓
-
 Educational Design
-
 ↓
-
 Knowledge Organization
-
 ↓
-
 Learning
-
 ↓
-
 Understanding
 
 ------------------------------------------------------------
 
 ISPOR
-
 ↓
-
 HEOR
-
 ↓
-
 Evidence
-
 ↓
-
 Decision Making
-
 ↓
-
 Outcomes
 
 ------------------------------------------------------------
 
 AI
-
 ↓
-
 Decision Support
-
 ↓
-
 Communication
-
 ↓
-
 Clinical Workflow
-
 ↓
-
 Better Decisions
 
 ======================================================================
@@ -497,16 +425,3 @@ FINAL PRINCIPLE
 I am not collecting topics.
 
 I am building an interconnected knowledge network.
-
-Every project,
-every conference,
-every paper,
-every conversation,
-every LinkedIn post,
-every research idea,
-
-should strengthen one part of that network.
-
-If something cannot be connected to the map,
-
-I should ask why I am creating it.

@@ -1,8 +1,7 @@
 # ======================================================================
 # KARTIK H.
 # EDITORIAL CONSTITUTION
-# Version 1.0
-# Last Updated: June 2026
+# Living document. Git history is the version record.
 # ======================================================================
 
 "Don't build an audience.
@@ -43,9 +42,7 @@ This is NOT a permanent life mission.
 
 It is the question I am exploring today.
 
-It is allowed to evolve as my education,
-research,
-career,
+It is allowed to evolve as my education, research, career,
 and worldview evolve.
 
 ========================================================================
@@ -97,7 +94,12 @@ The recurring problem I investigate is:
 
 How information becomes action.
 
-Everything fits somewhere inside:
+                    CONTEXT
+     (cost, access, beliefs, fear, family
+      influence, routines, culture, language,
+      health literacy, system barriers)
+          |                   |
+          v                   v
 
 Information
       ↓
@@ -108,6 +110,10 @@ Decision
 Behaviour
       ↓
 Outcome
+
+Context influences every stage.
+
+A person may understand perfectly and still not act.
 
 ========================================================================
 5. CORE THINKING PRINCIPLES
@@ -253,8 +259,13 @@ When something is an opinion:
 
 Label it.
 
+Every essay that makes a claim requiring evidence should name
+at least one source before it is published.
+
+Sources are collected in research/ using the paper template.
+
 ========================================================================
-9. TONE
+9. TONE AND LANGUAGE
 ========================================================================
 
 Calm.
@@ -276,6 +287,39 @@ Never preach.
 Never chase controversy.
 
 Never manufacture hot takes.
+
+Avoid:
+
+- excessive em dashes
+- stock openers
+- "Most people..."
+- fake stories
+- unsupported experience claims
+- repeated sentence openings
+- stacked fragments
+- dramatic reversal structures
+- generic rhetorical questions
+- overly polished AI-like prose
+
+Banned words:
+
+delve, leverage, unlock, unleash, elevate, empower, seamless,
+robust, harness, transformative, revolutionary, game-changer,
+cutting-edge, synergy, holistic, tapestry, journey, landscape,
+navigate, ecosystem, supercharge, skyrocket
+
+Banned phrases:
+
+"here's the thing", "let that sink in", "the reality?",
+"but here's the kicker", "this resonates", "this lands",
+"at its core", "in today's fast-paced world", "dive deep",
+"level up", "the bottom line?", "let's be honest", "pro tip",
+"spoiler alert", "food for thought", "in conclusion",
+"furthermore", "moreover", crucial, pivotal
+
+No bold, italics, underline, or emoji in the published post.
+
+Default post length: 150–250 words.
 
 ========================================================================
 10. EVERY POST FOLLOWS THIS FLOW
@@ -342,14 +386,20 @@ Add value.
 Possible approaches:
 
 • offer another perspective
-
 • connect ideas
-
 • ask thoughtful questions
-
 • recommend useful resources
-
 • respectfully challenge assumptions
+
+The first comment on my own post should ADD something:
+
+• MODE 1 — clarify what the post does NOT claim
+• MODE 2 — ask practitioners or educators about something concrete they have observed
+• MODE 3 — ask one precise unresolved question
+
+Do not end every post with "Thoughts?" or "Agree?"
+
+The question should generate information, not engagement.
 
 ========================================================================
 13. WHAT I WILL NOT DO
@@ -403,15 +453,18 @@ Did I document genuine learning?
 
 Everything I publish should eventually fit into one knowledge map.
 
-                    Better Healthcare Outcomes
-                               ▲
-                     Better Behaviours
-                               ▲
-                     Better Decisions
-                               ▲
-                    Better Understanding
-                               ▲
-                  Better Information Design
+                      CONTEXT
+        (acting across every stage below)
+
+Better Information Design
+        ↓
+Better Understanding
+        ↓
+Better Decisions
+        ↓
+Better Behaviours
+        ↓
+Better Health Outcomes
 
 Every article.
 

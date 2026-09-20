@@ -1,7 +1,6 @@
 # ======================================================================
 # SECOND BRAIN INDEX
 # Kartik H.
-# Version 1.0
 # Living Knowledge System
 # ======================================================================
 
@@ -20,48 +19,38 @@ I connect ideas into an evolving knowledge network.
 Everything should eventually become:
 
 Learning
-
 ↓
-
 Understanding
-
 ↓
-
 Creation
-
 ↓
-
 Application
-
 ↓
-
 Reflection
 
 ======================================================================
-KNOWLEDGE PIPELINE
+KNOWLEDGE PIPELINE (CANONICAL)
 ======================================================================
 
-INPUT
+This is the one pipeline. The README uses the same order.
 
+Observe
 ↓
-
-ORGANIZE
-
+Capture
 ↓
-
-CONNECT
-
+Research
 ↓
-
-CREATE
-
+Connect
 ↓
-
-FEEDBACK
-
+Reflect
 ↓
-
-REFINE
+Create
+↓
+Discuss
+↓
+Improve
+↓
+Archive
 
 Information should never stop at reading.
 
@@ -131,248 +120,87 @@ Never save information directly.
 
 Always answer:
 
-1.
+1. What is the main idea?
 
-What is the main idea?
+2. Why does it matter?
 
-2.
+3. How does it connect to my Knowledge Map?
 
-Why does it matter?
+4. Can I explain it simply?
 
-3.
+5. Can I apply it?
 
-How does it connect to my Knowledge Map?
-
-4.
-
-Can I explain it simply?
-
-5.
-
-Can I apply it?
-
-6.
-
-Can I teach it?
+6. Can I teach it?
 
 If not...
 
 I probably don't understand it yet.
 
 ======================================================================
-MASTER FOLDERS
+FOLDERS AND DOMAINS
 ======================================================================
 
-01 Philosophy
+Folders = workflow stage (where a note is in its life)
 
-Thinking
+    INBOX.md          raw capture, unprocessed
+    capture/          observations awaiting connection
+    research/         papers and evidence
+    thinking/         connected notes and frameworks
+    projects/         TechStudyHubCore, research, prototypes
+    writing/          drafts
+    published/        finished public work
 
-Decision Making
+Domains = topic tags (from 01_KNOWLEDGE_MAP.md)
 
-Mental Models
+    Philosophy        (thinking, decision making, mental models,
+                      critical thinking, systems thinking)
+    Healthcare        (patient education, health literacy, communication,
+                      adherence, clinical pharmacy, transition of care)
+    Research          (methods, HEOR, implementation science, RWE,
+                      statistics, critical appraisal)
+    Education         (learning science, teaching, visual design,
+                      universal design, instructional design)
+    Technology        (AI, digital health, knowledge systems, automation,
+                      clinical decision support)
+    Building          (TechStudyHubCore, projects, experiments,
+                      prototype ideas)
 
-Critical Thinking
-
-Systems Thinking
-
-------------------------------------------------------------
-
-02 Healthcare
-
-Patient Education
-
-Health Literacy
-
-Communication
-
-Medication Adherence
-
-Clinical Pharmacy
-
-Transition of Care
-
-------------------------------------------------------------
-
-03 Research
-
-Research Methods
-
-HEOR
-
-Implementation Science
-
-RWE
-
-Statistics
-
-Critical Appraisal
-
-------------------------------------------------------------
-
-04 Education
-
-Learning Science
-
-Teaching
-
-Visual Design
-
-Universal Design
-
-Instructional Design
-
-------------------------------------------------------------
-
-05 Technology
-
-Artificial Intelligence
-
-Digital Health
-
-Knowledge Systems
-
-Automation
-
-Clinical Decision Support
-
-------------------------------------------------------------
-
-06 Building
-
-TechStudyHubCore
-
-PMAS
-
-Projects
-
-Experiments
-
-Prototype Ideas
+A note lives in one folder and carries one or more domain tags.
 
 ======================================================================
-EVERY NOTE TEMPLATE
+TEMPLATES
 ======================================================================
 
-Title
+Reusable templates live in templates/:
 
-Source
+• note-template.md         for every idea or observation
+• paper-template.md         for every paper read
+• conference-template.md    for every conference or seminar
+• project-template.md       for every project or experiment
+• essay-template.md         for every essay in the series
 
-Date
-
-Summary
-
-Key Insights
-
-Questions
-
-Connections
-
-Possible Applications
-
-Future Research
-
-Possible LinkedIn Post
-
-======================================================================
-EVERY PAPER TEMPLATE
-======================================================================
-
-Research Question
-
-Methods
-
-Population
-
-Key Findings
-
-Limitations
-
-Strengths
-
-My Thoughts
-
-Practical Implications
-
-Related Topics
-
-======================================================================
-EVERY CONFERENCE TEMPLATE
-======================================================================
-
-Speaker
-
-Topic
-
-Big Idea
-
-What Surprised Me
-
-Questions Raised
-
-Connections
-
-Action Items
-
-Potential Content
-
-======================================================================
-EVERY PROJECT TEMPLATE
-======================================================================
-
-Problem
-
-Observation
-
-Hypothesis
-
-Design
-
-Implementation
-
-Challenges
-
-Results
-
-Lessons
-
-Next Version
+Copy the template. Fill it in. File it in the right folder.
 
 ======================================================================
 CONTENT CREATION PIPELINE
 ======================================================================
 
 Observe
-
 ↓
-
 Capture
-
 ↓
-
 Research
-
 ↓
-
-Reflect
-
-↓
-
 Connect
-
 ↓
-
-Write
-
+Reflect
 ↓
-
+Create
+↓
 Discuss
-
 ↓
-
 Improve
-
 ↓
-
 Archive
 
 Nothing is written from memory.
@@ -400,49 +228,27 @@ KNOWLEDGE NETWORK
 ======================================================================
 
 Conference
-
 ↓
-
 Research Note
-
 ↓
-
 Knowledge Map
-
 ↓
-
 LinkedIn Post
-
 ↓
-
 Discussion
-
 ↓
-
 Project
-
 ↓
-
 Presentation
-
 ↓
-
 Research Idea
-
 ↓
-
 Dissertation
-
 ↓
-
 Publication
-
 ↓
-
 Teaching Material
-
 ↓
-
 TechStudyHubCore
 
 Nothing exists alone.
