@@ -13,9 +13,9 @@ Last updated: 2026-09-20
 
 ## Writing
 
-- Book II, Season 2B
-- Essay #16 — How do we make reasoning visible?
-- Published through #15 (see 04_ESSAY_INDEX.md)
+- Book III, Season 3A
+- Essay #21 — A patient doesn't experience our knowledge. They experience what we do with it.
+- Published through #20 (Books I and II complete. See 04_ESSAY_INDEX.md)
 
 ## Research Question
 
@@ -24,7 +24,7 @@ How can patient counselling be redesigned to improve understanding?
 ## This Week
 
 - Read 2 papers
-- Draft Essay #16
+- Plan Essay #21 (Book III opener)
 - Summarize ISPOR notes
 
 ## Parking Lot

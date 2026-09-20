@@ -8,6 +8,9 @@
 
 > The series is a public investigation, not a content calendar.
 
+> Verified against the published posts #01–#20 and their posters
+> (September 2026).
+
 ======================================================================
 RULES
 ======================================================================
@@ -60,16 +63,46 @@ Every essay's closing question should be answerable
 by that book's primary reader.
 
 ======================================================================
+PUBLISHED SERIES FACTS
+======================================================================
+
+These were verified against the live posts and posters.
+Do not change them without checking the published record.
+
+- Books I and II are complete: #01–#20 are published.
+
+- Book II carries the public title
+  "RETHINKING HEALTHCARE EDUCATION" on its posters.
+  "Knowledge Under Pressure" is the working concept name,
+  not the published one.
+
+- Poster numbering began at Essay #07.
+  Posters #01–#06 carry titles but no essay number.
+
+- The assessment framework appears on the posters for
+  #09, #13 and #16 in one consistent form:
+
+      EXPLAIN → REASON → VERIFY → APPLY → JUDGE
+
+  This is the canonical version. (The #13 caption paraphrases
+  it as explain/connect/verify/apply/justify — the poster is
+  the reference.)
+
+- The #20 poster and caption both state that #20 concludes
+  Book II and announce the move to patients, professionals
+  and real-world decisions. Book III begins at #21.
+
+======================================================================
 CURRENT POSITION
 ======================================================================
 
-Published: #01–#15
+Published: #01–#20 (Book I complete, Book II complete)
 
-Next: #16 — How do we make reasoning visible? (Season 2B)
+Next: #21 — A patient doesn't experience our knowledge.
+                They experience what we do with it.
+                (Book III, Season 3A)
 
-Then: #17–#20 complete Book II
-
-After that: Book III
+Then: #22–#30 complete Book III
 
 ======================================================================
 NUMBERING NOTE
@@ -80,17 +113,17 @@ season design.
 
 Rejected. Published numbers are permanent.
 
-The published sequence already maps cleanly onto the seasons:
+The published sequence maps cleanly onto the seasons:
 
     Season 2A = #09–#12
     Season 2B = #13–#16
     Season 2C = #17–#20
 
-No renumbering needed.
+No renumbering needed. Verified against the published posts.
 
 ======================================================================
 BOOK I — HOW UNDERSTANDING IS BUILT
-#01–#08
+#01–#08   [COMPLETE]
 ======================================================================
 
 Core question:
@@ -102,51 +135,76 @@ understanding it?
 SEASON 1A — INFORMATION → UNDERSTANDING
 ----------------------------------------------------------------------
 
-#01  Information vs understanding
-     More information does not automatically create understanding.
+#01  The less I thought information was the real problem
+     [published; no number on poster]
+     Guidelines, papers and AI summaries exist, yet patients
+     still leave unsure. The question: communication, organization,
+     understanding.
 
-#02  Connections create understanding
-     Ideas understood when connected, not held as isolated facts.
+#02  When more information doesn't lead to better understanding
+     [published; no number on poster]
+     The challenge isn't the amount of information.
+     It's how that information is organized and connected.
 
-#03  Memorization: foundation, not destination
-     Recall → Understanding → Use.
+#03  Memorization is the beginning.
+     Understanding is what makes it useful.
+     [published; no number on poster]
+     Recall gives building blocks. Understanding connects them.
+     Knowing amlodipine vs knowing when to choose it.
 
-#04  Knowledge meets context and experience
-     Simple in the textbook, complex in the real situation.
+#04  Good teachers don't just explain.
+     They help you see connections.
+     [published; no number on poster]
+     Two students, same lecture, different understanding.
+     The difference is whether connections were built.
 
 ----------------------------------------------------------------------
 SEASON 1B — UNDERSTANDING → CAPABILITY
 ----------------------------------------------------------------------
 
-#05  From recall to application
-     Knowing a concept is not the same as using it.
+#05  Experience gives knowledge context
+     [published; no number on poster]
+     Two people, same knowledge, different responses with a
+     real patient. Knowledge helps us begin.
+     Experience helps us grow.
 
-#06  Time, timing, and healthcare delay
-     Knowledge + Communication + Timing.
+#06  In healthcare, time has a different meaning
+     [published; no number on poster]
+     Delayed diagnosis, missed medication, postponed consultation.
+     Knowledge creates impact when it helps people act in time.
 
-#07  Exams vs projects
-     Exams show what we've learned. Projects show what we can do.
+#07  How do we know someone truly understands?
+     [published; poster: Knowledge Essay #07, Season 1]
+     Exams measure preparation, recall, defined conditions.
+     Projects reveal integration, application, communication.
 
-#08  Certificates acknowledge, capability demonstrates
-     What remains after the certificate is earned?
+#08  What remains after the certificate is earned?
+     [published; poster: Book I, Essay #08]
+     Certificates acknowledge learning. Capability demonstrates it.
+     Book I closes.
 
 ----------------------------------------------------------------------
 BOOK I PROPOSITION
 ----------------------------------------------------------------------
 
-Information → Connections → Understanding → Application → Capability
+Information → Connections → Understanding → Application → Experience
+            → Capability
 
 Established. The series does not need to return here.
 
 ======================================================================
-BOOK II — KNOWLEDGE UNDER PRESSURE
-#09–#20
+BOOK II — RETHINKING HEALTHCARE EDUCATION
+(Knowledge Under Pressure)
+#09–#20   [COMPLETE]
 ======================================================================
 
 Core question:
 
-What happens to human reasoning when information, explanations,
-and answers become increasingly accessible?
+What happens to learning, reasoning, and capability when
+information, explanations and answers become increasingly
+accessible?
+
+Public title on posters: RETHINKING HEALTHCARE EDUCATION.
 
 ----------------------------------------------------------------------
 SEASON 2A — WHEN ANSWERS BECOME EASY
@@ -154,20 +212,27 @@ SEASON 2A — WHEN ANSWERS BECOME EASY
 
 #09  If AI can produce the answer, what should education measure?
      [published]
+     The answer alone now tells us less. First appearance of
+     EXPLAIN → REASON → VERIFY → APPLY → JUDGE on the poster.
 
-#10  Professional learning begins before graduation
+#10  Why LinkedIn before graduation?
      [published]
+     Professional learning can begin before professional
+     employment. Origin: the 5th International HEOR Conference
+     at RIPER, before M.Pharm classes began.
      Bridge theme: continues in #19.
 
-#11  Who is teaching us to think when AI gives us answers?
+#11  AI can give us answers. Who is teaching us to think?
      [published]
-     AI changes the economics of access to knowledge,
-     not the requirements for expertise.
+     Access to knowledge is not the same as developing expertise.
+     AI provides information; humans must question, verify,
+     judge, take responsibility.
 
 #12  A correct answer can still lead to the wrong decision
      [published]
-     Knowledge and clinical judgment are related
-     but not identical capabilities.
+     Information → Context → Reasoning → Decision → Communication.
+     The information may be correct. The decision can still be
+     inappropriate.
 
 ----------------------------------------------------------------------
 SEASON 2B — MAKING REASONING VISIBLE
@@ -175,41 +240,52 @@ SEASON 2B — MAKING REASONING VISIBLE
 
 #13  How should assessment change when AI is part of learning?
      [published]
-     EXPLAIN → REASON → VERIFY → APPLY → JUDGE
+     From "What do you know?" to "What can you do with what
+     you know?" The assessment framework in full:
+     EXPLAIN → REASON → VERIFY → APPLY → JUDGE.
 
-#14  What happens when learning becomes too easy?
+#14  Which difficulties should learning keep?
      [published]
      Unnecessary friction vs productive difficulty.
+     Remove the first. Keep the second.
 
 #15  When two students give the same correct answer,
      how do we know who understands it?
      [published]
-     Same output ≠ same understanding.
+     Same output ≠ same understanding. Measure explain,
+     adapt, verify, justify, reflect.
 
 #16  How do we make reasoning visible?
-     [NEXT]
-     If understanding cannot be inferred from the final answer,
-     assessment needs evidence of the process.
+     [published]
+     Capture the thinking between question and answer.
+     Answers can be generated. Reasoning must be demonstrated.
 
 ----------------------------------------------------------------------
 SEASON 2C — CAPABILITY AFTER THE TOOL
 ----------------------------------------------------------------------
 
 #17  When does AI assistance become dependence?
-     Not an anti-AI essay. Investigate the boundary.
+     [published]
      Test: after using AI, what can the learner now do
      independently that they couldn't do before?
 
 #18  What should a student still be able to do without AI?
-     If the tool disappears, what capability remains?
+     [published]
+     If the tool disappeared tomorrow, what remains:
+     explain, reason, verify, communicate, judge.
 
-#19  What happens when knowledge leaves the classroom?
-     The bridge essay. Knowledge must become useful
-     to another human being.
+#19  What happens when healthcare knowledge leaves the classroom?
+     [published]
+     The bridge essay. A patient asks "Why am I taking this
+     medicine?" Knowledge → Understanding → Communication →
+     Decision → Action. Healthcare knowledge is a systems
+     problem, not only a content problem.
 
-#20  What should education actually leave behind?
-     Book II closes: what capabilities survive
-     when the environment changes?
+#20  What should remain when the environment changes?
+     [published]
+     Book II closes. Tools change; the responsibility to think,
+     verify and act wisely remains. The poster announces the
+     move to patients, professionals and real-world decisions.
 
 ======================================================================
 BOOK III — FROM KNOWLEDGE TO HEALTHCARE ACTION
@@ -227,6 +303,7 @@ SEASON 3A — THE TRANSLATION PROBLEM
 
 #21  A patient doesn't experience our knowledge.
      They experience what we do with it.
+     [NEXT]
 
 #22  A prescription can be correct and still be misunderstood.
 
