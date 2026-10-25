@@ -20,6 +20,17 @@ The goal is to think better.
 
 ---
 
+## The gap this works on
+
+Two failures I keep running into in healthcare delivery:
+
+1. **The Capability Gap** — health systems produce enormous volumes of evidence-based material, which arrives as information overload rather than understanding.
+2. **The Comprehension Gap** — at the point of care, patients need immediate, simple, and culturally synchronised guidance to stay adherent and manage chronic conditions.
+
+Working hypothesis: technology-assisted, vernacular, visual-first communication can measurably improve adherence and reduce avoidable re-hospitalisation.
+
+---
+
 ## Core principle
 
 Information alone rarely changes outcomes.
@@ -67,6 +78,25 @@ Nothing is published without reflection.
 
 ---
 
+## How to read this repository
+
+If you are new to this system, read in this order:
+
+1. `README.md` — this file. What the system is and how it is organised.
+2. `01_KNOWLEDGE_MAP.md` — the questions I am exploring.
+3. `03_SECOND_BRAIN_INDEX.md` — the pipeline that turns input into output.
+4. `02_EDITORIAL_CONSTITUTION.md` — how I write and what I refuse to publish.
+5. `04_ESSAY_INDEX.md` — the essay series, its Books and Seasons.
+6. `05_FOUNDER_FRAMEWORK.md` — how I validate and build ventures.
+
+Then:
+
+- `NOW.md` — what I am focused on right now.
+- `INBOX.md` — raw capture, before processing.
+- `templates/` — the reusable forms every note follows.
+
+---
+
 ## Repository structure
 
 ```
@@ -93,7 +123,32 @@ Knowledge_OS/
 └── published/                        finished public work
 ```
 
-The numbered files (01–05) are the core system documents. Together they define the map (01), the editorial standard (02), the knowledge pipeline (03), the essay series (04), and the founder framework (05). The folders hold the work itself.
+The numbered files (01–05) are the core system documents. The folders hold the work itself.
+
+---
+
+## Core documents
+
+| File | Purpose | Answers |
+|---|---|---|
+| `01_KNOWLEDGE_MAP.md` | The questions I am exploring, and the canonical domain list | What am I studying? |
+| `02_EDITORIAL_CONSTITUTION.md` | Writing standards, banned words, evidence rules | How do I write? |
+| `03_SECOND_BRAIN_INDEX.md` | The pipeline from input to output | How does knowledge flow? |
+| `04_ESSAY_INDEX.md` | The essay series, Books, Seasons, quality test | What am I publishing? |
+| `05_FOUNDER_FRAMEWORK.md` | Validation, pricing, build discipline | How do I build? |
+
+---
+
+## Status legend
+
+Notes and projects carry a status, so nothing is ever mistaken for more than it is:
+
+- **[FACT]** — actually built, used, tested, or decided.
+- **[EXPERIMENT]** — explored, not necessarily completed.
+- **[LESSON]** — learned from the experience.
+- **[FUTURE IDEA]** — considered, not implemented.
+
+Future ideas are never presented as completed work.
 
 ---
 
@@ -115,7 +170,9 @@ The essay master index lives in 04_ESSAY_INDEX.md.
 
 Folders describe workflow stage (where a note is in its life).
 
-Domains (in 01_KNOWLEDGE_MAP.md) describe topic (what the note is about).
+Domains (defined in 01_KNOWLEDGE_MAP.md) describe topic (what the note is about).
+
+The domains in 01_KNOWLEDGE_MAP.md are the single canonical list. Every other document refers to them; none redefines them.
 
 A note lives in one folder and carries one or more domain tags.
 
@@ -125,11 +182,27 @@ A note lives in one folder and carries one or more domain tags.
 
 05_FOUNDER_FRAMEWORK.md is the operating system for the building side of this work.
 
-The healthcare essays investigate a problem. The founder framework governs how that investigation turns into ventures—how ideas are validated, how value is delivered, and how a business is built around a validated problem rather than a hope. It is the discipline behind projects such as TechStudyHubCore.
+The healthcare essays investigate a problem. The founder framework governs how that investigation turns into ventures—how ideas are validated, how value is delivered, and how a business is built around a validated problem rather than a hope. It is the discipline behind projects such as PMAS and TechStudyHubCore.
 
-It connects to the rest of the repository through the Building domain and the projects/ folder: an essay question can become an experiment, an experiment can become a project, and a project is built using this framework.
+It connects to the rest of the repository through the Building in Public domain and the projects/ folder: an essay question can become an experiment, an experiment can become a project, and a project is built using this framework.
 
 Two bodies of work, one method: understand the problem, validate with evidence, and build only what is proven useful.
+
+---
+
+## Related work
+
+The knowledge system is the thinking layer. These are the built layers:
+
+| Repository | What it is |
+|---|---|
+| [PMAS](https://github.com/kartik-h6/PMAS) | Pharmacist-led medication and adherence support — an offline-first, multilingual telepharmacy platform. The applied side of the understanding → action problem. |
+| [e-library](https://github.com/kartik-h6/e-library) | A semester-wise B.Pharm study library (PCI 2026 / NEP 2020). The education domain, built. |
+| [digital-setup](https://github.com/kartik-h6/digital-setup) | TECHSTUDYHUBCORE's bilingual digital-services platform for local businesses. |
+| [Portfolio](https://github.com/kartik-h6/Portfolio) | The professional identity layer. |
+| [techstudyhubcore-archive](https://github.com/kartik-h6/techstudyhubcore-archive) | The honest record of the TechStudyHubCore journey — what was built, learned, and retired. |
+
+Nothing here exists in isolation. An idea can move from a note in this repository into any of these, and back.
 
 ---
 
