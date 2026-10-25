@@ -1,0 +1,154 @@
+{
+  "_about": "Structured self-introduction for KARTIK H. The narrative version is 00_ABOUT.md; this file is the same facts as parseable data. Confirmed by Kartik.",
+  "name": "KARTIK H",
+  "name_note": "Written capitalised, with no punctuation.",
+  "headline": "M.Pharm (Pharmacy Practice) scholar and builder, working on how healthcare knowledge becomes understanding, decisions, and better outcomes.",
+  "summary": "Pharmacist by training, not a computer-science specialist. Directs AI models across the whole build lifecycle and owns the architecture around them. Work sits where pharmacy practice, health communication, and digital health meet.",
+  "location": {
+    "residence": "Koppal, Karnataka, India",
+    "campus": "Anantapur, Andhra Pradesh, India"
+  },
+  "contact": {
+    "email": "kartik.h6822@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/kartik-h6",
+    "github": "https://github.com/kartik-h6",
+    "portfolio": "https://kartik-h6.github.io/Portfolio/"
+  },
+  "central_question": "How can healthcare knowledge be communicated, organised, and translated into understanding that helps people make better decisions, and ultimately improves health outcomes?",
+  "the_gap": {
+    "capability_gap": "Health systems produce enormous volumes of evidence-based material, which arrives as information overload rather than understanding.",
+    "comprehension_gap": "At the point of care, patients need immediate, simple, and culturally synchronised guidance to stay adherent and manage chronic conditions.",
+    "working_hypothesis": "Technology-assisted, vernacular, visual-first communication can measurably improve adherence and reduce avoidable re-hospitalisation."
+  },
+  "education": [
+    {
+      "programme": "M.Pharm - Pharmacy Practice",
+      "institution": "RIPER, Anantapur (JNTUA)",
+      "note": "autonomous campus",
+      "period": "Oct 2026 - present"
+    },
+    {
+      "programme": "B.Pharm",
+      "institution": "Priyadarshini College of Pharmacy, Koratagere (RGUHS)",
+      "period": "2021 - 2025",
+      "cgpa": "7.2 / 10"
+    },
+    {
+      "programme": "Pre-University (PCMB)",
+      "institution": "Satyam International School & PU College, Ballari",
+      "period": "2018 - 2020",
+      "score": "81.45%"
+    }
+  ],
+  "languages": [
+    { "language": "Kannada", "proficiency": "Native" },
+    { "language": "English", "proficiency": "Professional" },
+    { "language": "Hindi", "proficiency": "Fluent" },
+    { "language": "Telugu", "proficiency": "Conversational" },
+    { "language": "Tamil", "proficiency": "Conversational" }
+  ],
+  "interests": [
+    "Pharmacy Practice & Clinical Pharmacy",
+    "Healthcare Communication & Health Literacy",
+    "Digital Health & Health Informatics",
+    "AI in Healthcare",
+    "Patient Education & Medication Adherence",
+    "Healthcare Knowledge Systems"
+  ],
+  "experience": [
+    {
+      "role": "Founder & Builder",
+      "organisation": "TechStudyHubCore",
+      "period": "Apr 2026 - 2026",
+      "status": "archived",
+      "notes": "Built, alone, a learning ecosystem for pharmacy, nursing, and school-level students. Retired when it became too broad for one person to maintain responsibly."
+    },
+    {
+      "role": "Freelance digital infrastructure",
+      "organisation": "Digital Setup",
+      "period": "ongoing",
+      "notes": "One-time builds on the owner's own domain: landing page, WhatsApp contact, Google and maps presence, local-search basics."
+    },
+    {
+      "role": "Academic mentoring & lectures",
+      "organisation": "Junior students, several departments",
+      "period": "ongoing",
+      "notes": "Offline and online, as academic curriculum support."
+    },
+    {
+      "role": "Medical Writer",
+      "organisation": "YuvaIntern (Henry Harvin)",
+      "period": "Jul 2026 - Aug 2026",
+      "notes": "Medical literature research, evidence synthesis, topic development, structured healthcare content planning."
+    },
+    {
+      "role": "Internship Trainee",
+      "organisation": "KS Hospital",
+      "period": "Jan 2026 - Feb 2026",
+      "notes": "Junior pharmacist across purchase, inventory, and clinical data management; master database of 750+ pharmaceutical products; MMU documentation aligned with NABH 6th Edition."
+    }
+  ],
+  "projects": [
+    { "name": "PMAS", "url": "https://github.com/kartik-h6/PMAS", "description": "Pharmacist-led Medication & Adherence Support - offline-first, five-language (EN/TE/KN/TA/HI) patient PWA, pharmacist portal, and FastAPI backend for rural and remote chronic care. Research instrument first, product second." },
+    { "name": "e-library", "url": "https://github.com/kartik-h6/e-library", "description": "Semester-wise B.Pharm study library for RIPER students on the PCI 2026 (NEP 2020) syllabus." },
+    { "name": "digital-setup", "url": "https://github.com/kartik-h6/digital-setup", "description": "Bilingual (English/Kannada) digital-services site for local businesses, by TECHSTUDYHUBCORE." },
+    { "name": "techstudyhubcore-archive", "url": "https://github.com/kartik-h6/techstudyhubcore-archive", "description": "The honest engineering record of the TechStudyHubCore ecosystem." },
+    { "name": "Portfolio", "url": "https://kartik-h6.github.io/Portfolio/", "description": "The professional identity layer." },
+    { "name": "Knowledge_OS", "url": "https://github.com/kartik-h6/Knowledge_OS", "description": "The thinking system behind everything above; also this self-introduction documentary." }
+  ],
+  "early_artifacts": [
+    { "name": "TrailCode", "description": "The early prototype and learning artifact that preceded TechStudyHubCore." },
+    { "name": "CGPA/SGPA calculator", "description": "Built on the official PCI 2026 B.Pharm syllabus; now part of the e-library work." }
+  ],
+  "research": [
+    {
+      "title": "Patient Satisfaction and Counseling Effectiveness in Telepharmacy: A Comparative Literature Review of Remote vs. Face-to-Face",
+      "year": 2025,
+      "type": "RGUHS final-year dissertation",
+      "notes": "Satisfaction was high in both models (4.2 remote vs 4.5 face-to-face); trust and emotional reassurance leaned toward in-person care. Reframed the question as which mode suits a given patient at a given point in the care journey."
+    },
+    {
+      "title": "AI Patient Education Narrative Review",
+      "type": "Medical writing sample",
+      "notes": "Written during the Junior Medical Writing internship."
+    },
+    {
+      "title": "Nanoparticle drug-delivery systems",
+      "year": 2022,
+      "type": "Conference presentation",
+      "event": "PharmaNEST 3.E International Conference, Ooty",
+      "notes": "Recognised as an award recipient."
+    }
+  ],
+  "certifications": [
+    { "name": "AI in Pharma: Transforming Life Sciences Through Technology", "issuer": "LSSSDC / Skill India / NSQF Level 5", "date": "Mar 2026" },
+    { "name": "Generative AI Mastermind", "issuer": "Outskill", "date": "Dec 2025" },
+    { "name": "Google AI Essentials", "issuer": "Google / Coursera" },
+    { "name": "Google Prompting Essentials", "issuer": "Google / Coursera" },
+    { "name": "Use AI as a Creative or Expert Partner", "issuer": "Google / Coursera" },
+    { "name": "Good Clinical Practice", "issuer": "NIDA Clinical Trials Network" },
+    { "name": "Junior Medical Writing Intern", "issuer": "YuvaIntern (certificate of experience)" }
+  ],
+  "certification_note": "Seven certifications. The B.Pharm degree is an academic award and is counted separately under education.",
+  "publication": {
+    "title": "Healthcare Knowledge Essays",
+    "status": "Books I and II complete; #01-#20 published",
+    "index": "04_ESSAY_INDEX.md"
+  },
+  "principles": [
+    "Curiosity before certainty.",
+    "Evidence before opinion.",
+    "Systems before symptoms.",
+    "Questions before conclusions.",
+    "Learning before publishing.",
+    "Progress before perfection."
+  ],
+  "documents": {
+    "about": "00_ABOUT.md",
+    "knowledge_map": "01_KNOWLEDGE_MAP.md",
+    "editorial_constitution": "02_EDITORIAL_CONSTITUTION.md",
+    "second_brain_index": "03_SECOND_BRAIN_INDEX.md",
+    "essay_index": "04_ESSAY_INDEX.md",
+    "founder_framework": "05_FOUNDER_FRAMEWORK.md"
+  }
+}
