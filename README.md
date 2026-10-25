@@ -78,6 +78,7 @@ Knowledge_OS/
 ├── 02_EDITORIAL_CONSTITUTION.md     how I write
 ├── 03_SECOND_BRAIN_INDEX.md         how knowledge flows
 ├── 04_ESSAY_INDEX.md                essay series master index
+├── 05_FOUNDER_FRAMEWORK.md          how I validate and build ventures
 ├── templates/                       reusable templates
 │   ├── note-template.md
 │   ├── paper-template.md
@@ -91,6 +92,8 @@ Knowledge_OS/
 ├── writing/                          drafts
 └── published/                        finished public work
 ```
+
+The numbered files (01–05) are the core system documents. Together they define the map (01), the editorial standard (02), the knowledge pipeline (03), the essay series (04), and the founder framework (05). The folders hold the work itself.
 
 ---
 
@@ -115,6 +118,18 @@ Folders describe workflow stage (where a note is in its life).
 Domains (in 01_KNOWLEDGE_MAP.md) describe topic (what the note is about).
 
 A note lives in one folder and carries one or more domain tags.
+
+---
+
+## The founder framework
+
+05_FOUNDER_FRAMEWORK.md is the operating system for the building side of this work.
+
+The healthcare essays investigate a problem. The founder framework governs how that investigation turns into ventures—how ideas are validated, how value is delivered, and how a business is built around a validated problem rather than a hope. It is the discipline behind projects such as TechStudyHubCore.
+
+It connects to the rest of the repository through the Building domain and the projects/ folder: an essay question can become an experiment, an experiment can become a project, and a project is built using this framework.
+
+Two bodies of work, one method: understand the problem, validate with evidence, and build only what is proven useful.
 
 ---
 
