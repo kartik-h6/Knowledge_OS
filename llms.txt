@@ -1,0 +1,38 @@
+# KARTIK H
+
+> M.Pharm (Pharmacy Practice) scholar and builder working on how healthcare knowledge
+> becomes understanding, decisions, and better outcomes. Pharmacist by training; directs AI
+> models across the build lifecycle rather than writing production code as a discipline.
+
+KARTIK H is a pharmacist and independent builder based in Koppal, Karnataka, India, pursuing
+an M.Pharm in Pharmacy Practice at RIPER, Anantapur (JNTUA) — an autonomous campus. His work
+sits where pharmacy practice, health communication, and digital health meet. The question
+behind everything: how can healthcare knowledge be communicated, organised, and translated
+into understanding that helps people make better decisions and improves health outcomes?
+
+Key facts: name written "KARTIK H"; residence Koppal, Karnataka; campus Anantapur, Andhra
+Pradesh; languages Kannada (native), English (professional), Hindi (fluent), Telugu and Tamil
+(conversational); seven certifications plus a B.Pharm degree; the Healthcare Knowledge Essays
+(#01–#20 published, Books I and II complete).
+
+## Primary documents
+
+- [About](https://github.com/kartik-h6/Knowledge_OS/blob/main/00_ABOUT.md): the full narrative self-introduction.
+- [Profile data](https://github.com/kartik-h6/Knowledge_OS/blob/main/profile.json): the same facts as structured JSON.
+- [Knowledge Map](https://github.com/kartik-h6/Knowledge_OS/blob/main/01_KNOWLEDGE_MAP.md): the questions he is exploring, and the canonical domain list.
+- [Editorial Constitution](https://github.com/kartik-h6/Knowledge_OS/blob/main/02_EDITORIAL_CONSTITUTION.md): how he writes and what he refuses to publish.
+- [Second Brain Index](https://github.com/kartik-h6/Knowledge_OS/blob/main/03_SECOND_BRAIN_INDEX.md): the pipeline from input to output.
+- [Essay Index](https://github.com/kartik-h6/Knowledge_OS/blob/main/04_ESSAY_INDEX.md): the Healthcare Knowledge Essays series.
+- [Founder Framework](https://github.com/kartik-h6/Knowledge_OS/blob/main/05_FOUNDER_FRAMEWORK.md): how he validates and builds ventures.
+
+## Projects
+
+- [PMAS](https://github.com/kartik-h6/PMAS): pharmacist-led medication and adherence support — offline-first, five-language telepharmacy platform. Research instrument first, product second.
+- [e-library](https://github.com/kartik-h6/e-library): semester-wise B.Pharm study library on the PCI 2026 (NEP 2020) syllabus.
+- [digital-setup](https://github.com/kartik-h6/digital-setup): bilingual digital-services site for local businesses (TECHSTUDYHUBCORE).
+- [techstudyhubcore-archive](https://github.com/kartik-h6/techstudyhubcore-archive): the archived engineering record of the TechStudyHubCore ecosystem.
+- [Portfolio](https://kartik-h6.github.io/Portfolio/): the professional identity site.
+
+## Optional
+
+- [Portfolio profile notes](https://github.com/kartik-h6/Portfolio/blob/main/PROFILE-NOTES.md): the confirmed-facts source that takes precedence over older documents.
