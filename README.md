@@ -97,6 +97,8 @@ Then:
 - `NOW.md` — what I am focused on right now.
 - `INBOX.md` — raw capture, before processing.
 - `templates/` — the reusable forms every note follows.
+- `DECISIONS.md` — why the system is built this way.
+- `GLOSSARY.md` — the words this system uses.
 
 ---
 
@@ -115,6 +117,8 @@ Knowledge_OS/
 ├── 03_SECOND_BRAIN_INDEX.md         how knowledge flows
 ├── 04_ESSAY_INDEX.md                essay series master index
 ├── 05_FOUNDER_FRAMEWORK.md          how I validate and build ventures
+├── DECISIONS.md                     why the system is built this way
+├── GLOSSARY.md                      the words this system uses
 ├── templates/                       reusable templates
 │   ├── note-template.md
 │   ├── paper-template.md
