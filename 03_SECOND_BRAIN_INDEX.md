@@ -146,24 +146,42 @@ Folders = workflow stage (where a note is in its life)
     capture/          observations awaiting connection
     research/         papers and evidence
     thinking/         connected notes and frameworks
-    projects/         TechStudyHubCore, research, prototypes
+    projects/         PMAS, TechStudyHubCore, research, prototypes
     writing/          drafts
     published/        finished public work
 
-Domains = topic tags (from 01_KNOWLEDGE_MAP.md)
+Domains = topic tags (from 01_KNOWLEDGE_MAP.md — the single canonical list)
 
-    Philosophy        (thinking, decision making, mental models,
-                      critical thinking, systems thinking)
-    Healthcare        (patient education, health literacy, communication,
-                      adherence, clinical pharmacy, transition of care)
-    Research          (methods, HEOR, implementation science, RWE,
-                      statistics, critical appraisal)
-    Education         (learning science, teaching, visual design,
-                      universal design, instructional design)
-    Technology        (AI, digital health, knowledge systems, automation,
-                      clinical decision support)
-    Building          (TechStudyHubCore, projects, experiments,
-                      prototype ideas)
+    Understanding       (health literacy, patient education, clinical
+                        communication, medication counselling, risk
+                        communication, vernacular education, shared
+                        decision making)
+    Decision Making     (clinical reasoning, evidence interpretation,
+                        decision support, AI assistance, behavioural
+                        science)
+    Behavior Change     (medication adherence, motivation, follow-up,
+                        habit formation, transition of care, patient
+                        engagement)
+    Healthcare Systems  (workflow, communication, implementation, digital
+                        health, HEOR, real-world evidence, quality
+                        improvement)
+    Education           (pharmacy education, visual learning, case-based
+                        learning, clinical thinking, educational psychology,
+                        universal design for learning)
+    Technology          (artificial intelligence, decision support, digital
+                        health, automation, knowledge systems, patient
+                        portals, clinical information systems)
+    Research            (research methods, implementation science, HEOR,
+                        real-world evidence, clinical outcomes, patient
+                        reported outcomes)
+    Building in Public  (PMAS, TechStudyHubCore, research projects,
+                        conference reflections, experiments, prototypes,
+                        failures, lessons learned)
+    Personal Growth     (books, papers, mentors, conferences, unexpected
+                        observations, mistakes)
+
+These nine domains are defined once, in 01_KNOWLEDGE_MAP.md.
+This index does not maintain a second list.
 
 A note lives in one folder and carries one or more domain tags.
 
