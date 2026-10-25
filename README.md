@@ -2,6 +2,8 @@
 
 > "A personal knowledge system for exploring how healthcare information becomes better understanding, better decisions, better behaviors, and better health outcomes."
 
+This repository is also a self-introduction: `00_ABOUT.md` is the narrative, `profile.json` the structured facts, and `llms.txt` the machine-readable summary. Start there if you want to know who I am before you read how I think.
+
 ---
 
 ## Why this repository exists
@@ -82,12 +84,13 @@ Nothing is published without reflection.
 
 If you are new to this system, read in this order:
 
-1. `README.md` — this file. What the system is and how it is organised.
-2. `01_KNOWLEDGE_MAP.md` — the questions I am exploring.
-3. `03_SECOND_BRAIN_INDEX.md` — the pipeline that turns input into output.
-4. `02_EDITORIAL_CONSTITUTION.md` — how I write and what I refuse to publish.
-5. `04_ESSAY_INDEX.md` — the essay series, its Books and Seasons.
-6. `05_FOUNDER_FRAMEWORK.md` — how I validate and build ventures.
+1. `00_ABOUT.md` — who I am and what I work on.
+2. `README.md` — this file. What the system is and how it is organised.
+3. `01_KNOWLEDGE_MAP.md` — the questions I am exploring.
+4. `03_SECOND_BRAIN_INDEX.md` — the pipeline that turns input into output.
+5. `02_EDITORIAL_CONSTITUTION.md` — how I write and what I refuse to publish.
+6. `04_ESSAY_INDEX.md` — the essay series, its Books and Seasons.
+7. `05_FOUNDER_FRAMEWORK.md` — how I validate and build ventures.
 
 Then:
 
@@ -102,6 +105,9 @@ Then:
 ```
 Knowledge_OS/
 ├── README.md                        this file
+├── 00_ABOUT.md                      who I am — the self-introduction
+├── llms.txt                         concise summary for LLM tools
+├── profile.json                     structured profile data
 ├── NOW.md                           current focus
 ├── INBOX.md                         capture before organizing
 ├── 01_KNOWLEDGE_MAP.md              the questions I am exploring
@@ -118,12 +124,12 @@ Knowledge_OS/
 ├── capture/                          raw observations
 ├── research/                         papers and evidence
 ├── thinking/                         connected notes and frameworks
-├── projects/                         TechStudyHubCore, research, prototypes
+├── projects/                         PMAS, TechStudyHubCore, research, prototypes
 ├── writing/                          drafts
 └── published/                        finished public work
 ```
 
-The numbered files (01–05) are the core system documents. The folders hold the work itself.
+The numbered files (00–05) are the core system documents. The folders hold the work itself.
 
 ---
 
@@ -131,6 +137,7 @@ The numbered files (01–05) are the core system documents. The folders hold the
 
 | File | Purpose | Answers |
 |---|---|---|
+| `00_ABOUT.md` | Who I am, what I work on, how I think | Who is this? |
 | `01_KNOWLEDGE_MAP.md` | The questions I am exploring, and the canonical domain list | What am I studying? |
 | `02_EDITORIAL_CONSTITUTION.md` | Writing standards, banned words, evidence rules | How do I write? |
 | `03_SECOND_BRAIN_INDEX.md` | The pipeline from input to output | How does knowledge flow? |
@@ -203,6 +210,14 @@ The knowledge system is the thinking layer. These are the built layers:
 | [techstudyhubcore-archive](https://github.com/kartik-h6/techstudyhubcore-archive) | The honest record of the TechStudyHubCore journey — what was built, learned, and retired. |
 
 Nothing here exists in isolation. An idea can move from a note in this repository into any of these, and back.
+
+---
+
+## For machines
+
+- `llms.txt` — a concise, link-first summary for LLM tools.
+- `profile.json` — the profile as structured, parseable data.
+- `00_ABOUT.md` — the narrative equivalent of both.
 
 ---
 
