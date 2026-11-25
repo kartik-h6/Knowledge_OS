@@ -317,6 +317,51 @@ Banned phrases:
 "spoiler alert", "food for thought", "in conclusion",
 "furthermore", "moreover", crucial, pivotal
 
+Extended list:
+
+The house list above is the standard. This second tier catches
+the same failure in more words — a sentence that sounds finished
+without having said anything. Adapted from an MIT-licensed
+lexicon; the house list takes precedence where they overlap.
+
+Verbs: utilize, utilizing, embark on, foster, facilitate,
+showcase, streamline, spearhead, underscore, underscores,
+cultivate, amplify, curate, curated, revolutionize, deep dive,
+dive deep into
+
+Adjectives: vital, comprehensive, groundbreaking, unparalleled,
+invaluable, meticulous, meticulously, myriad, multifaceted,
+bespoke, innovative, profound, remarkable, compelling
+
+Nouns: realm, testament to, cornerstone, beacon, paradigm,
+treasure trove, plethora, arsenal, north star
+
+Connectives: additionally, nevertheless, consequently, thus,
+hence, notably, importantly, ultimately, in essence,
+when it comes to, in order to, a wide range of,
+it is worth noting that
+
+Openers: in today's digital age, in the ever-evolving landscape,
+in the ever-changing world, let's face it, picture this,
+imagine a world where, it's no secret that, we've all been there,
+had the opportunity to, I am excited to announce,
+I'm thrilled to share, I am humbled to, without further ado,
+buckle up, the harsh truth is
+
+Closers: the choice is yours, the future is here, what are your
+thoughts, drop a comment below, at the end of the day,
+move the needle, needle-moving, read that again, save this for later,
+who's with me
+
+The list is a diagnostic, not a ban on the words themselves.
+If removing one leaves the sentence empty, the sentence was the
+problem.
+
+Formatting hygiene: strip zero-width characters, non-breaking
+spaces and stray byte-order marks before publishing. They survive
+copy-paste, are invisible in every editor, and break text
+matching later. The published exports for #01 to #20 carried them.
+
 No bold, italics, underline, or emoji in the published post.
 
 Default post length: 150–250 words.

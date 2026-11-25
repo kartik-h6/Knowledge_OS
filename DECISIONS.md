@@ -77,6 +77,14 @@ Entries are grouped by area, not strictly by date. Where a decision has a known 
 **Recorded.** 2026-11-25.
 **Source.** `editorial_os/INTEGRATION.md`.
 
+### The voice profile is measured, not asserted
+
+**Decision.** `editorial_os/voice.md` describes the voice with figures taken from the twenty published essays.
+**Why.** A voice described only in adjectives — calm, analytical, reflective — cannot be checked by a writer or an assistant. Figures can: median 216 words per post, median 9-word sentences, 61% of paragraphs at eight words or fewer, zero emoji, hashtags only on the series close.
+**Rejected.** A voice file filled in by hand from memory, which would describe the voice he thinks he has rather than the one on the page.
+**Recorded.** 2026-11-25.
+**Source.** `editorial_os/voice.md`.
+
 ## The building side
 
 ### The founder framework is a peer core document

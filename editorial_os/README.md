@@ -11,6 +11,16 @@ This package provides:
 
 It is an editorial assistant, not a publishing bot. It drafts, critiques, structures, and analyses. Kartik reviews and publishes manually.
 
+## Additions made after integration
+
+Three things were added from the source repository, adapted to this system:
+
+- `voice.md` — a voice profile filled from the twenty published essays, with measured figures (median 216 words per post, median 9-word sentences, 61% of paragraphs eight words or fewer, zero emoji, hashtags only on the series close). Skills read it before drafting.
+- `claude/.claude/skills/linkedin-carousel/SKILL.md` — carousel guidance built on the existing poster system: seven-slide architecture, the navy and gradient palette, the permanent essay number, export sizes for LinkedIn and for the archive.
+- `02_EDITORIAL_CONSTITUTION.md` — the banned-word list extended with a second tier adapted from the source repository's lexicon, plus a formatting-hygiene rule for zero-width characters.
+
+Not adopted from the source: its AI-detection scoring panel, its hook-formula requirement, and its outreach and inbox sequences. The reasons are recorded in `INTEGRATION.md`.
+
 ## Order of authority
 
 This package is tooling. It sits under the repository's own documents and does not replace them:
