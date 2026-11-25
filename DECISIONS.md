@@ -85,6 +85,14 @@ Entries are grouped by area, not strictly by date. Where a decision has a known 
 **Recorded.** 2026-11-25.
 **Source.** `editorial_os/voice.md`.
 
+### Routine work is a runbook, not a memory exercise
+
+**Decision.** `06_PROFILE_RUNBOOK.md` lists every recurring job with its trigger, its reason, the exact files to open and a done-condition.
+**Why.** The system held facts, rules and an index but no operating order, so each task began with working out what the task was. The symptom was `NOW.md` sitting two months out of date while the index said something else.
+**Rejected.** Relying on the assistant to reconstruct the next step each time, and a checklist that names actions without saying when they are triggered.
+**Recorded.** 2026-11-25.
+**Source.** `06_PROFILE_RUNBOOK.md`.
+
 ## The building side
 
 ### The founder framework is a peer core document

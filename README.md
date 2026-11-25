@@ -117,6 +117,7 @@ Knowledge_OS/
 ├── 03_SECOND_BRAIN_INDEX.md         how knowledge flows
 ├── 04_ESSAY_INDEX.md                essay series master index
 ├── 05_FOUNDER_FRAMEWORK.md          how I validate and build ventures
+├── 06_PROFILE_RUNBOOK.md            what to do, when, and in what order
 ├── DECISIONS.md                     why the system is built this way
 ├── GLOSSARY.md                      the words this system uses
 ├── templates/                       reusable templates
@@ -134,7 +135,7 @@ Knowledge_OS/
 └── published/                        finished public work
 ```
 
-The numbered files (00–05) are the core system documents. The folders hold the work itself. `editorial_os/` is the exception: it holds tooling, not documents, and it is subordinate to `02_EDITORIAL_CONSTITUTION.md` and `04_ESSAY_INDEX.md`.
+The numbered files (00–06) are the core system documents. The folders hold the work itself. `editorial_os/` is the exception: it holds tooling, not documents, and it is subordinate to `02_EDITORIAL_CONSTITUTION.md` and `04_ESSAY_INDEX.md`.
 
 ---
 
@@ -148,6 +149,7 @@ The numbered files (00–05) are the core system documents. The folders hold the
 | `03_SECOND_BRAIN_INDEX.md` | The pipeline from input to output | How does knowledge flow? |
 | `04_ESSAY_INDEX.md` | The essay series, Books, Seasons, quality test | What am I publishing? |
 | `05_FOUNDER_FRAMEWORK.md` | Validation, pricing, build discipline | How do I build? |
+| `06_PROFILE_RUNBOOK.md` | Trigger, reason, inputs and done-condition for each routine job | What do I do next, and when? |
 
 ---
 
