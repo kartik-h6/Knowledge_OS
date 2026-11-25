@@ -69,6 +69,14 @@ Entries are grouped by area, not strictly by date. Where a decision has a known 
 
 ---
 
+### The Editorial OS is tooling, not a second constitution
+
+**Decision.** LinkedIn workflow skills and prompts live in `editorial_os/` and defer to `02_EDITORIAL_CONSTITUTION.md` and `04_ESSAY_INDEX.md`. Where they disagree, the repository documents win.
+**Why.** The imported package arrived with its own editorial constitution. Two of its rules contradicted the repository: it allowed one or two emoji in a post, and it described a Tuesday/Friday cadence as already established when nothing in the repository records one. Two constitutions drift apart; one standard with tooling beneath it does not.
+**Rejected.** Adopting the package's constitution as a replacement, and keeping two constitutions side by side.
+**Recorded.** 2026-11-25.
+**Source.** `editorial_os/INTEGRATION.md`.
+
 ## The building side
 
 ### The founder framework is a peer core document

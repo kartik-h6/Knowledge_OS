@@ -125,6 +125,7 @@ Knowledge_OS/
 │   ├── conference-template.md
 │   ├── project-template.md
 │   └── essay-template.md
+├── editorial_os/                     LinkedIn workflow skills and prompts (tooling)
 ├── capture/                          raw observations
 ├── research/                         papers and evidence
 ├── thinking/                         connected notes and frameworks
@@ -133,7 +134,7 @@ Knowledge_OS/
 └── published/                        finished public work
 ```
 
-The numbered files (00–05) are the core system documents. The folders hold the work itself.
+The numbered files (00–05) are the core system documents. The folders hold the work itself. `editorial_os/` is the exception: it holds tooling, not documents, and it is subordinate to `02_EDITORIAL_CONSTITUTION.md` and `04_ESSAY_INDEX.md`.
 
 ---
 
